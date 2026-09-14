@@ -32,7 +32,6 @@ export const metadata: Metadata = {
       "The unofficial, always-current companion for your NYSC service year — the guide the official app should have been.",
     url: siteUrl,
     siteName: "Corper Companion",
-    images: [{ url: "/brand/icon_square_1024.png", width: 1024, height: 1024 }],
     locale: "en_NG",
     type: "website",
   },
@@ -41,7 +40,6 @@ export const metadata: Metadata = {
     title: "Corper Companion — NYSC Prep & Camp Guide",
     description:
       "The unofficial, always-current companion for your NYSC service year — the guide the official app should have been.",
-    images: ["/brand/icon_square_1024.png"],
   },
   icons: {
     icon: "/brand/icon_rounded_64.png",
