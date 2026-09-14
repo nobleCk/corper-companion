@@ -36,6 +36,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+# APK binary — too large for git; host via GitHub Releases and link to it instead
+public/downloads/*.apk
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
