@@ -28,24 +28,24 @@ const PRO_FEATURES = [
     title: "PPA Vetting Guide",
     description:
       "A structured list of questions to ask before accepting a placement, a place to log the answers, and a simple red-flag indicator — so you don't find out too late that a PPA doesn't pay or provide accommodation.",
-    screenshot: "/screenshots/04_ppa_vetting.png",
+    screenshot: "/screenshots/04_ppa_vetting_v2.png",
   },
   {
     title: "Current Info Feed",
     description:
       "Circulars, batch-specific updates, and deadline changes — kept current, unlike the staleness the official app is known for.",
-    screenshot: "/screenshots/07_info_feed.png",
+    screenshot: "/screenshots/07_info_feed_v2.png",
   },
   {
     title: "Clearance & CDS Reminders",
     description: "Never miss a clearance date or CDS attendance window again.",
-    screenshot: "/screenshots/05_clearance_reminders.png",
+    screenshot: "/screenshots/05_clearance_reminders_v2.png",
   },
   {
     title: "Document Vault",
     description:
       "Your NIN, certificates, admission letter, and call-up letter — stored locally with AES-256 encryption and biometric lock.",
-    screenshot: "/screenshots/06_document_vault.png",
+    screenshot: "/screenshots/06_document_vault_v2.png",
   },
 ];
 
@@ -92,10 +92,10 @@ export default function Home() {
         <div className="overflow-x-auto">
           <div className="flex w-max gap-4">
             {[
-              "01_home.png",
-              "02_camp_packing.png",
-              "03_camp_guide.png",
-              "08_corper_pro_pricing.png",
+              "01_home_v2.png",
+              "02_camp_packing_v2.png",
+              "03_camp_guide_v2.png",
+              "08_corper_pro_pricing_v2.png",
             ].map((file) => (
               <Image
                 key={file}
