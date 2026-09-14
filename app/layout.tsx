@@ -44,6 +44,9 @@ export const metadata: Metadata = {
   icons: {
     icon: "/brand/icon_rounded_64.png",
   },
+  verification: {
+    google: "P4HPc5wF_gu3hlKVzy575bTxRS4OeyrGGtUkHFAZzcY",
+  },
 };
 
 export default function RootLayout({
