@@ -102,7 +102,7 @@ export default function Home() {
                 src={`/screenshots/${file}`}
                 alt="Corper Companion app screenshot"
                 width={220}
-                height={476}
+                height={468}
                 className="rounded-2xl border border-khaki-sand shadow-md"
               />
             ))}
@@ -161,7 +161,7 @@ export default function Home() {
                   src={f.screenshot}
                   alt={`${f.title} screenshot`}
                   width={90}
-                  height={195}
+                  height={191}
                   className="h-auto w-20 shrink-0 rounded-lg border border-khaki-sand"
                 />
                 <div>
