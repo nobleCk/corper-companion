@@ -109,10 +109,10 @@ export default function PrivacyPage() {
           <p className="mt-3">
             Questions about your data or this policy? Reach us at{" "}
             <a
-              href="mailto:corpercompanion@gmail.com"
+              href="mailto:corpercompanionapp@gmail.com"
               className="font-semibold text-savannah-green underline"
             >
-              corpercompanion@gmail.com
+              corpercompanionapp@gmail.com
             </a>
             .
           </p>

@@ -16,7 +16,7 @@ export default function SiteFooter() {
             Terms of Service
           </Link>
           <a
-            href="mailto:corpercompanion@gmail.com"
+            href="mailto:corpercompanionapp@gmail.com"
             className="hover:text-savannah-green"
           >
             Contact

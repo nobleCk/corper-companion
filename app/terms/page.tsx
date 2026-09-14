@@ -108,10 +108,10 @@ export default function TermsPage() {
           <p className="mt-3">
             Questions about these terms, or a refund request? Reach us at{" "}
             <a
-              href="mailto:corpercompanion@gmail.com"
+              href="mailto:corpercompanionapp@gmail.com"
               className="font-semibold text-savannah-green underline"
             >
-              corpercompanion@gmail.com
+              corpercompanionapp@gmail.com
             </a>
             .
           </p>
