@@ -16,7 +16,7 @@ const karla = Karla({
   weight: ["400", "600"],
 });
 
-const siteUrl = "https://corper-companion.vercel.app";
+const siteUrl = "https://corpercompanion.vercel.app";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
