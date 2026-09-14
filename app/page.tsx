@@ -89,7 +89,7 @@ export default function Home() {
 
       {/* Screenshot showcase */}
       <section className="mx-auto max-w-6xl px-4 py-16 sm:px-6">
-        <div className="overflow-x-auto">
+        <div className="flex justify-center overflow-x-auto">
           <div className="flex w-max gap-4">
             {[
               "01_home_v2.png",
