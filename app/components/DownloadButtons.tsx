@@ -85,7 +85,7 @@ export default function DownloadButtons({ id }: { id?: string } = {}) {
       className="flex flex-col items-center gap-3 sm:flex-row sm:items-start"
     >
       <a
-        href="https://apkpure.com/p/com.corpercompanion.corper_companion"
+        href="https://github.com/nobleCk/corper-companion/releases/download/v1.0.1/app-release.apk"
         target="_blank"
         rel="noopener noreferrer"
         className="rounded-full bg-harmattan-gold px-6 py-3 text-center font-body text-sm font-semibold text-charcoal-ink shadow-md transition hover:opacity-90"
